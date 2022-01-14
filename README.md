@@ -13,6 +13,8 @@ Se resuelven EDOs de primer y segundo orden.
 - Runge-Kutta 2do orden
 - Runge-Kutta 4to orden
 ## Solución de ecuaciones no lineales
-
+### Métodos usados
+- Método de bisección
+- Método de Newton-Raphson
 ## EDP
 Por el momento solo hay código que soluciona la ecuación del calor (o de la misma estructura) en una dimensión con condiciones iniciales y de frontera. O sea, el código resuelve problemas del tipo T=T(x,t).
